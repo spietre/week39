@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveActivityStateEx</string>
+    <string name="hello_world">Hello world!</string>
+<string name="Text_Dialog">"Text Dialog"</string>
+</resources>
